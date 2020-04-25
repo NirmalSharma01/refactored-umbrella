@@ -1,0 +1,4 @@
+Instruction for deploying tthis site.
+-------------------------------------
+
+Lorem ipsum dolor sit amet, consectetor adipiscing elit.
