@@ -1,4 +1,4 @@
-Instruction for deploying tthis site.
+Instruction for deploying this site to the server.
 -------------------------------------
 
 Lorem ipsum dolor sit amet, consectetor adipiscing elit.
